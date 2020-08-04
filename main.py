@@ -188,7 +188,7 @@ if __name__ == "__main__":
     from economy import give_money
     print(discord.__version__)
 
-	bot.run("YOUR_TOKEN_HERE")
+    bot.run("YOUR_TOKEN_HERE")
 
 
 
