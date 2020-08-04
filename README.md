@@ -1,2 +1,2 @@
-# emoji-thief
+# Emoji Thief
 An emoji management Discord bot.
